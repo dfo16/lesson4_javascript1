@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 19, 2018
 
 ### Student Name:  
-(First and Last Name)
+Danielle Osdon
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project is an expense calculator that is supposed to calculate the percentage of a budget.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://github.com/dfo16/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that getElementById() is a method used to put id's on an HTML page.
+2. The parseFloat() function is used to convert an inputted String into a Float.
+3. The clearForm method is used to remove values that were placed previously in the HTML.
 
 
 
